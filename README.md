@@ -46,8 +46,7 @@
 
 ## 📫 Connect with me
 
-- Email: [addisuselome@gmail.com]
-
+- Email: addisuselome@gmail.com
 ---
 <p align="center">
   <i>"Securing the future, one line of code at a time."</i>
