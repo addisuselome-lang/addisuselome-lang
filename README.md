@@ -1,41 +1,58 @@
-# Hi 👋, I am Solomie 
+# Hi 👋, I'm Solomie 
 
-### Information Systems Student @ UoG | AI Enthusiast 🚀
+### Information Systems Student @ UoG |  AI Enthusiast 🚀
 
 ---
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+
 ## 💡 About Me
 - 🎓 Currently pursuing my degree in Information Systems at the University of Gondar.
-- 🔐 Passionate about Cybersecurity and protecting digital assets.
+- 🔐 Passionate about Cybersecurity and digital forensics.
 - 🤖 Building AI-driven solutions to solve real-world problems.
 - 💻 I love exploring new technologies and building secure systems.
 
-## 🛠️ Skills & Interests
-- Security: Network Security, Threat Analysis, and Ethical Hacking.
-- Development: Python, Java, and Database Management.
-- AI/ML: Developing an AI-based Agriculture Disease Detector.
+## 🛠️ Technical Skills
+- Security: Network Security & Threat Analysis
+- Development: Python, Java, SQL
+- AI/ML: Computer Vision & Data Analytics
 
-## 📈 Current Projects
+    </td>
+    <td valign="top" width="50%">
+
+## 📊 GitHub Stats
+![Solomie's Stats](https://github-readme-stats.vercel.app/api?username=addisuselome-lang&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addisuselome-lang&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=58a6ff&text_color=ffffff)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+---
+
+## 📈 Featured Projects
 - 🛡️ Senior Project: AI-powered Agriculture Disease Detector.
-- 🌐 SecureRSVP: Building secure event management platforms.
-- 🏥 SmartHosp: Improving healthcare operations with data analytics.
+- 🏥 SmartHosp: Healthcare operational optimization using data analytics.
+- 🔐 SecureRSVP: AI-driven event management and security platform.
 
-## 📫 How to reach me
+## 📫 Connect with me
 
 - Email: [addisuselome@gmail.com]
 
 ---
-*“Securing the future, one line of code at a time.”*
----
-
-### Tech Stack 💻
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### GitHub Stats 📊
-![Salome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=addisuselome-lang&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addisuselome-lang&layout=compact&theme=tokyonight)
+<p align="center">
+  <i>"Securing the future, one line of code at a time."</i>
+</p>
