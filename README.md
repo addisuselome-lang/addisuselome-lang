@@ -22,11 +22,7 @@
     </td>
     <td valign="top" width="50%">
 
-## 📊 GitHub Stats
-![Solomie's Stats](https://github-readme-stats.vercel.app/api?username=addisuselome-lang&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addisuselome-lang&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=58a6ff&text_color=ffffff)
 
-    </td>
   </tr>
 </table>
 
